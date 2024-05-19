@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520208817964",
+    "project_id": "mood-story-486ab",
+    "storage_bucket": "mood-story-486ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520208817964:android:574e993a227d7b0c0dd689",
+        "android_client_info": {
+          "package_name": "com.example.mood_story"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcdGHFwSfFosNW5xTBQnI7z-9dhj464bM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
